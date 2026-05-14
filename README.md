@@ -15,6 +15,7 @@ This project is a lightweight Reddit research client designed for public discuss
 - No automated engagement
 
 ## API Usage Policy
+- The client intentionally uses conservative request pacing and respects Reddit API rate limits.
 - Only accesses public content
 - Respects Reddit rate limits
 - Does not store private user information

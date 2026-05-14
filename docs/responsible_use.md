@@ -8,3 +8,4 @@
 - No targeted advertising.
 - No manipulation.
 - No political targeting.
+- The client intentionally uses conservative request pacing and respects Reddit API rate limits.
