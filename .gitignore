@@ -1,0 +1,7 @@
+# Python standard ignores
+__pycache__/
+*.py[cod]
+*.env
+venv/
+.idea/
+.vscode/
